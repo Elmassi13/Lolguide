@@ -1,0 +1,185 @@
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 50px;
+    font-size: 4rem;
+    
+}
+
+ul {
+    list-style-type: none;
+   
+}
+
+li , button {
+    font-family: 'Montserrat', sans-serif;
+   
+}
+p {
+    font-family: 'Montserrat', sans-serif; 
+    margin-top: 10px;   
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 2.5rem;
+    font-weight: 200;
+    margin-bottom: 5px;
+}
+
+h3 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 2.5rem;
+    
+}
+body {
+   margin: 0;
+   background-image: linear-gradient( rgb(66, 65, 65), rgb(149, 1, 1), rgb(90, 89, 89));  
+   text-align: center;
+ 
+ 
+}
+
+hr {
+    margin-top: 95px;
+    margin-bottom: 90px;
+    border-top: dotted rgb(29, 29, 29) 10px;
+    border-right: 0;
+    border-bottom: 0;
+    border-left: 0;
+    width: 80px;
+    
+}
+.top-container {
+    
+   margin-top: 0;
+   position: relative;  
+   padding-bottom: 100px; 
+       
+}
+
+.title-1, .subtitle-1 {
+    color: rgb(226, 41, 41);
+}
+.title-1 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+
+}
+.subtitle-1 {
+    
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 500px;
+    bottom: 0;
+    margin: auto;
+}
+.darius-gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 30px;
+    
+    
+}
+
+
+    
+.lol-log {
+    top: 40px;
+    width: 500px;
+    margin-top: 100px;     
+}
+
+.lol-log:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+
+.darius-png {
+    width: 20%;
+    text-align: center;
+}
+
+.btn {
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.footer-link {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    
+}
+.darius-runes {
+   width: 40%;
+   float: left;
+   margin-right: 10px;
+}
+
+.imghab {
+    width: 40%;
+    float: left;
+    margin-right: 10px;
+    
+}
+
+.tankimg {
+    width: 40%;
+    float: left;
+    margin-right: 10px;
+}
+
+.sub-title {
+    font-size: 2rem;
+}
+
+
+.skill-row {
+    margin: 200px auto 200px auto;
+    text-align: left;
+    width: 70%;
+
+}
+
+
+ul {
+    text-align: left;
+}
+
+.contact-me {
+    text-align: center;
+}
+
+
+
+.bottom-container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    background-color: rgb(0, 0, 0);
+        
+}
+
+.contactmebut {
+    padding :8px;
+    border-radius: 4px;
+    color: rgb(161, 161, 161);
+    background-color: rgb(0, 0, 0);
+    transition: 0.4s;
+    
+}
+
+.contactmebut:hover {
+    border-radius: 4px;
+    border-color: rgb(0, 0, 0);
+    background-color: transparent;
+    color: rgba(255, 0, 0, 0.76);
+}
+
